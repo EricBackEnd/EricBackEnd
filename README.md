@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Linguagens
 <div>
@@ -75,9 +75,9 @@
 
 ---
 
-## 📦 Projetos & Contribuições
+## Projetos & Contribuições
 
-### 🏥 TecSIM — Sistema de Simulação Educacional
+### TecSIM — Sistema de Simulação Educacional
 🔗 <a href="https://github.com/Benedito-Dev/TecSIM" target="_blank">Repositório TecSIM</a>
 
 **Tecnologias:** Node.js, Express, PostgreSQL, MongoDB, React, React Native, Banco de dados hospedado na AWS
@@ -90,7 +90,7 @@
 
 ---
 
-### 🛒 Giga-Cell — E-commerce
+### Giga-Cell — E-commerce
 🔗 <a href="https://github.com/Benedito-Dev/Giga-Cell" target="_blank">Repositório Giga-Cell</a>
 
 **Tecnologias:** Node.js, Express, PostgreSQL, React, Banco de dados hospedado na AWS
@@ -103,7 +103,7 @@
 
 ---
 
-### 📊 DataRise — Sistema de Análise de Crimes
+### DataRise — Sistema de Análise de Crimes
 🔗 <a href="https://github.com/victorlima11/DataRise" target="_blank">Repositório DataRise</a>
 
 **Tecnologias:** Python (Flask), PostgreSQL, React
@@ -118,7 +118,7 @@
 ---
 
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:rabelomateus4@gmail.com?subject=Oportunidade%20Profissional">
