@@ -12,7 +12,7 @@
 
 ---
 
-## 👨💻 Sobre mim
+##  Sobre mim
 
 <p align="center">
   <strong>Desenvolvedor Backend</strong> especializado em APIs REST, regras de negócio e sistemas escaláveis.<br>
@@ -74,12 +74,50 @@
 
 ---
 
-## 📦 Projetos & Contribuições
+## 🛠️ Stack Tecnológica
+
+### Linguagens
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+</div>
+
+### Frameworks & Runtime
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+</div>
+
+### Banco de Dados & Cache
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
+</div>
+
+### DevOps & Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/>
+</div>
+
+---
+
+##  Projetos & Contribuições
 
 ### 🏥 TecSIM — Sistema de Simulação Educacional
 🔗 <a href="https://github.com/Benedito-Dev/TecSIM" target="_blank">Repositório TecSIM</a>
 
-**Tecnologias:** Python, Flask, PostgreSQL, Docker
+**Tecnologias:** Node.js, Express, PostgreSQL, MongoDB, React, React Native, Banco de dados hospedado na AWS
 
 **Contribuições:**
 - Desenvolvimento de APIs REST para simulações educacionais
@@ -92,7 +130,7 @@
 ### 🛒 Giga-Cell — E-commerce
 🔗 <a href="https://github.com/Benedito-Dev/Giga-Cell" target="_blank">Repositório Giga-Cell</a>
 
-**Tecnologias:** Node.js, Express, MongoDB, Redis
+**Tecnologias:** Node.js, Express, PostgreSQL, React, Banco de dados hospedado na AWS
 
 **Contribuições:**
 - Sistema de gerenciamento de produtos e estoque
@@ -105,7 +143,7 @@
 ### 📊 DataRise — Sistema de Análise de Crimes
 🔗 <a href="https://github.com/victorlima11/DataRise" target="_blank">Repositório DataRise</a>
 
-**Tecnologias:** Python (Flask), PostgreSQL, Redis, Docker, React
+**Tecnologias:** Python (Flask), PostgreSQL, React
 
 **Contribuições:**
 - Processamento de dados criminais (15+ anos de registros)
@@ -113,45 +151,6 @@
 - APIs para análise estatística e geolocalização
 - Pipeline de ETL para tratamento de dados públicos
 - Integração full-stack com frontend React
-
----
-
-### 📦 Smart Stock — Sistema de Controle de Estoque
-🔗 <a href="https://github.com/EricBackEnd/Smart-Stock" target="_blank">Repositório Smart Stock</a>
-
-**Tecnologias:** Python, Django, PostgreSQL, Docker Compose
-
-**Características:**
-- Sistema completo de gestão de inventário
-- APIs REST para controle de entrada/saída
-- Relatórios automatizados e alertas de estoque
-- Documentação Swagger para APIs
-
----
-
-## 💡 Competências Técnicas
-
-### Desenvolvimento Backend
-- **APIs REST** com autenticação e autorização
-- **Arquitetura de microsserviços** e sistemas distribuídos
-- **Modelagem de dados** e otimização de consultas
-- **Integração de sistemas** e APIs de terceiros
-- **Cache strategies** com Redis
-- **Containerização** com Docker e Docker Compose
-
-### Documentação & Processos
-- **Documentação de APIs** com Swagger/OpenAPI
-- **Análise e levantamento de requisitos**
-- **Diagramas técnicos:** Classes, ER, Casos de Uso, Atividades
-- **Metodologias ágeis** e gestão com Jira
-- **Versionamento** com Git/GitHub
-- **Testes de API** com Postman
-
-### Soft Skills
-- **Comunicação técnica** eficaz
-- **Trabalho em equipe** multidisciplinar
-- **Resolução de problemas** complexos
-- **Mentoria técnica** e code review
 
 ---
 
